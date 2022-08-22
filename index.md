@@ -1,4 +1,4 @@
-# Welcome to Random Apps
+## Welcome to Random Apps
 
 
 ## Privacy Policies
