@@ -1,4 +1,4 @@
-##About##
+## About App Man
 
 App man is an android app that helps users manage app reviews.
 
