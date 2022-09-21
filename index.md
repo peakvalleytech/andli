@@ -7,6 +7,8 @@ Our lives are built around our decisions, some of these decision are based off o
 
 ## Privacy Policies
 
+[App Man](app-man)
+
 [Random App](randomapp)
 
 [Random Lists](random-lists)
