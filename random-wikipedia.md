@@ -1,5 +1,9 @@
-**About Random Wikipedia**
+**Random Wikipedia**
+
+**About**
+
 Android app to epxlore wikipedia
+
 **Privacy Policy**
 
 Random Corp built the Random Wikipedia app as an Ad Supported app. This SERVICE is provided by Random Corp at no cost and is intended for use as is.
