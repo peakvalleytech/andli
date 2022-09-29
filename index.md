@@ -15,4 +15,6 @@ Our lives are built around our decisions, some of these decision are based off o
 
 [Random Number Generator](random-number-generator)
 
+[Random Wikipedia](random-wikipedia)
+
 [Text Walls](text-walls)
