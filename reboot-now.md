@@ -1,3 +1,5 @@
+# Reboot Now #
+
 **Privacy Policy**
 
 Random Corp built the Reboot Now app as an Ad Supported app. This SERVICE is provided by Random Corp at no cost and is intended for use as is.
