@@ -19,6 +19,8 @@ Our lives are built around our decisions, some of these decision are based off o
 
 [Reboot Now](reboot-now)
 
+[Reddit Quotes](reddit-quotes)
+
 [Remind - Random Notifications](random-notifications)
 
 [Text Walls](text-walls)
