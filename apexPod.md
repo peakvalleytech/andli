@@ -1,3 +1,5 @@
+# ApexPod - Privacy Policy
+
 ApexPod - Podcast Player ("ApexPod," "we," "us," or "our") is committed to protecting the privacy of our users. This Privacy Policy explains how we collect, use, and share information when you use our mobile application (the "App").
 
 <strong>Information We Collect</strong>
