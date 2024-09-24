@@ -11,6 +11,8 @@ Our lives are built around our decisions, some of these decision are based off o
 
 [App Man](app-man)
 
+[Longtail](longtail)
+
 [Random App](randomapp)
 
 [Random Lists](random-lists)
