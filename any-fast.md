@@ -1,4 +1,4 @@
-Privacy Policy
+Privacy Policy for Any Fast - Fasting Tracker
 
 Random Corp. built the Any Fast - Fasting Tracker app as an Ad Supported app. This SERVICE is provided by Random Corp. at no cost and is intended for use as is.
 
